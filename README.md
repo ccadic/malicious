@@ -1,5 +1,5 @@
 # malicious
-Malicious Svanning IP addresses
+Malicious Scanning IP addresses
 Script to add to IPTABLES
 
 
